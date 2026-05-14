@@ -245,22 +245,6 @@ Through these projects, I gained hands-on experience with:
 
 These projects helped me understand that machine learning is not just about running a model. It requires preparing the data correctly, choosing the right algorithm, evaluating results carefully, and explaining what the model is actually doing.
 
-## Future Improvements
-
-Future improvements for this repository could include:
-
-- Adding individual README files inside each project folder
-- Adding a `requirements.txt` file
-- Adding screenshots of important visualizations and results
-- Adding confusion matrices and performance tables
-- Adding short summaries of each dataset used
-- Adding clearer explanations of model results
-- Adding links to public datasets where allowed
-- Refactoring notebooks into Python scripts
-- Adding comments to explain important code sections
-- Adding a security-focused machine learning example, such as anomaly detection or phishing classification
-- Renaming project folders to make them more descriptive
-
 ## Disclaimer
 
 This repository was created for educational purposes as part of an Introduction to Machine Learning course. The notebooks and PDF exports are intended to demonstrate machine learning concepts, coursework, and applied practice.
